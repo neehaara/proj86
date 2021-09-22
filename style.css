@@ -1,0 +1,25 @@
+.body_background{
+    background-image: url("screen_img.jpg");
+    background-size: 1500px 800px ;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#myCanvas{
+    border-width:10px;
+    background-image: url("canvas_img.jpg"); 
+    border-style:ridge;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-color: rgb(194, 130, 255);
+}
+
+button{
+    background-color: rgb(194, 130, 255);
+    color: rgb(177, 93, 255);
+    border-color: rgb(225, 197, 252);
+    width: 100px;
+    height: 100px;
+    background-image: url("button_img.jpg");
+    background-size: 100px 100px;
+}
